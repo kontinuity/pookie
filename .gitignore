@@ -1,0 +1,15 @@
+# Go build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/pkg/
+
+# macOS specific files
+.DS_Store
+
+# VS Code specific files and directories
+.vscode/
